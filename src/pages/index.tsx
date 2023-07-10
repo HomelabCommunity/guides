@@ -25,7 +25,7 @@ export default function Home(): JSX.Element {
       title={`${siteConfig.title}`}
       description="Access tips, tutorials, and solutions for optimizing your homelab.">
       <HomepageHeader />
-      <main>
+      <main className="margin-vert--md">
         <HomepageFeatures />
       </main>
     </Layout>
