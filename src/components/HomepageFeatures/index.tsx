@@ -43,7 +43,7 @@ export default function HomepageFeatures(): JSX.Element {
       <section className="margin-vert--xl">
         <div className="row">
           <div className="col col--3">
-            <img src={'img/vms.png'} alt={'Virtualizations'} width={'200px'} height={'200px'} style={{
+            <img src={'img/vms.png'} alt={'Virtualizations'} height={'200px'} style={{
               display: 'flex',
               justifySelf: 'center',
               margin: '0 auto'
