@@ -70,6 +70,12 @@ const config = {
             label: 'Guides',
           },
           {
+            type: 'docSidebar',
+            sidebarId: 'communitySidebar',
+            position: 'left',
+            label: 'Community & Contribution',
+          },
+          {
             label: 'Reddit',
             position: 'right',
             href: 'https://reddit.com/r/homelab',
