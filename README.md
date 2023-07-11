@@ -1,5 +1,5 @@
 # Website
-[![Deploy to GitHub Pages](https://github.com/HomelabCommunity/guides/actions/workflows/deploy.yml/badge.svg)](https://github.com/HomelabCommunity/guides/actions/workflows/deploy.yml)
+[![GitHub Pages Deployment](https://github.com/HomelabCommunity/guides/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HomelabCommunity/guides/actions/workflows/pages/pages-build-deployment)
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
