@@ -1,5 +1,5 @@
 # Homelab Guides Website
-[![GitHub Pages Deployment](https://github.com/HomelabCommunity/guides/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HomelabCommunity/guides/actions/workflows/pages/pages-build-deployment)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/af61205e-b1be-4748-b139-0329de3cf9eb/deploy-status)](https://app.netlify.com/sites/home-lab-guides/deploys)
 
 A website of guides, how-to's, and knowledgebase information.
 
