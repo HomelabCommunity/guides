@@ -1,5 +1,13 @@
-# Website
+# Homelab Guides Website
 [![GitHub Pages Deployment](https://github.com/HomelabCommunity/guides/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HomelabCommunity/guides/actions/workflows/pages/pages-build-deployment)
+
+A website of guides, how-to's, and knowledgebase information.
+
+Managed and maintained by the Homelab community.
+
+[Website Link](https://guide.labbers.uk).
+
+## Build Information
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
